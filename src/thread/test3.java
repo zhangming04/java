@@ -5,7 +5,7 @@ public class test3 implements Runnable
 {
 	private int count = 20 ;
 	
-    public void run() 
+    public void run()   
     {
         while(true)
         {
